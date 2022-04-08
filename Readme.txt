@@ -8,7 +8,7 @@
 % http://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
 The code is the implentation of paper 
-Puhong Duan, Xudong Kang, Shutao Li, and Pedram Ghamisi,¡°Noise-Robust Hyperspectral Image Classification via Multi-Scale Total Variation¡± IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, to be published, 2019£¬DOI: 10.1109/JSTARS.2019.2915272. 
+Puhong Duan, Xudong Kang, Shutao Li, and Pedram Ghamisi,ï¿½ï¿½Noise-Robust Hyperspectral Image Classification via Multi-Scale Total Variationï¿½ï¿½ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, to be published, 2019ï¿½ï¿½DOI: 10.1109/JSTARS.2019.2915272. 
 
 If you use this code, please kindly cite the paper: 
 @ARTICLE{8725896, 
@@ -23,7 +23,3 @@ keywords={Feature extraction;Hyperspectral imaging;Kernel;Principal component an
 doi={10.1109/JSTARS.2019.2915272}, 
 ISSN={1939-1404}, 
 month={},}
-
-The code has not been well organized. Please contact me if you meet any problems.
-
-Email: puhong_duan@hnu.edu.cn
