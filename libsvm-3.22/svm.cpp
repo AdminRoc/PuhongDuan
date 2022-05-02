@@ -421,7 +421,7 @@ protected:
 	int *active_set;
 	double *G_bar;		// gradient, if we treat free variables as 0
 	int l;
-	bool unshrink;	// XXX
+	bool unshrink;	// charge
 
 	double get_C(int i)
 	{
